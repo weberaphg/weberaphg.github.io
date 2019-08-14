@@ -12,6 +12,8 @@ nav {
   padding: 50%;
   text-decoration: none;
   width: 100%;
+  
+  background: #206eff;
 }
 
 .dropdown .dropbtn {
