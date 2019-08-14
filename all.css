@@ -36,7 +36,7 @@
 }
 
 #flextime>*:not(h1) {
-  alig:center;
+  align-content:center;
 }
 
 h1 {
