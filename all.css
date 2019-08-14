@@ -1,6 +1,7 @@
 nav{
   display: flex;
   flex-direction: column;
+  width: 85%;
   justify-content: left;
   float: left;
   position: absolute;
