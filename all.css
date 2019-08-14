@@ -22,7 +22,7 @@
   transition: 0.3s;
 }
 
-.nav .closebtn {
+#nav .closebtn {
   position: absolute;
   top: 0;
   right: 25px;
