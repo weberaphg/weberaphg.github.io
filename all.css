@@ -33,6 +33,7 @@
 flextime {
   display: flex;
   flex-direction: column;
+  justify-content: 
 }
 
 h1 {
