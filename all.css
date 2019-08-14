@@ -1,4 +1,40 @@
+nav {
+  display: flex;
+  flex-direction: column;
+  width: 3%;
+  justify-content: left;
+  float: left;
+  position: absolute;
+  z-index: 1;
+}
 
+.navelement {
+  padding: 50%;
+  text-decoration: none;
+  width: 100%;
+}
+
+.dropdown .dropbtn {
+  font-size: 16px;
+  float: left;
+  overflow: hidden;
+  border: none;
+  outline: none;
+  background-color: #055cfd;
+  color: white;
+  padding: 14px 14px;
+  box-shadow: 1px 1px 1px 1px rgb(211, 4081f8, 211);
+  font-family: sans-serif;
+  margin: 0;
+}
+
+.dropdown:hover .dropbtn {
+  background-color: #0043be;
+}
+
+.dropdown:hover {
+  display: block;
+}
 
 .nav {
   height: 100%;
