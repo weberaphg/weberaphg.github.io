@@ -36,7 +36,7 @@ nav {
   display: block;
 }
 
-:not(.) {
+:not(.dropbtn .navelement) {
   width: 95%;
   float: right;
   justify-content: right;
