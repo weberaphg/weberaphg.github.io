@@ -35,10 +35,6 @@
   flex-direction: column;
 }
 
-#flextime>*:not(h1) {
-  ali:center;
-}
-
 h1 {
   font-size: 100px;
   text-align: center;
