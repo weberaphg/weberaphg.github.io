@@ -37,7 +37,7 @@ flextime {
 }
 
 flextime * {
-  
+  display:none;
 }
 
 h1 {
