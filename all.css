@@ -3,7 +3,8 @@ nav{
   flex-direction: column;
   justify-content: left;
   float: left;
-  posi
+  position: absolute;
+  z-index: 1;
 }
 
 .navelement{
