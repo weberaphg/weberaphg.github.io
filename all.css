@@ -1,7 +1,7 @@
 nav{
   display: flex;
   flex-direction: row;
-  just
+  justify-content: center;
 }
 
 .navelement{
