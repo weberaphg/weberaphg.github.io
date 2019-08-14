@@ -7,6 +7,7 @@ nav{
 .navelement{
   padding: 50%;
   text-decoration: none;
+  box-shadow: 1px 1px 1px 1px #5993ff;
 }
 
 .dropdown .dropbtn {
@@ -17,7 +18,6 @@ nav{
   outline: none;
   color: #484747;
   padding: 14px 16px;
-  box-shadow: 1px 1px 1px 1px #5993ff;
   font-family: sans-serif;
   margin: 0;
 }
