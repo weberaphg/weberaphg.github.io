@@ -26,6 +26,6 @@ nav{
   background-color: #dedede;
 }
 
-.dropdown:hover .dropdown-content {
+.dropdown:hover {
   display: block;
 }
