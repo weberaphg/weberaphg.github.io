@@ -33,7 +33,7 @@
 #flextime {
   display: flex;
   flex-direction: column;
-  width: 200%;
+  width: 100%;
 }
 
 #flextime>* {
