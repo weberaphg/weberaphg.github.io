@@ -30,12 +30,6 @@
   margin-left: 50px;
 }
 
-.main {
-  width: 95%;
-  float: right;
-  justify-content: right;
-}
-
 flextime {
   display: flex;
   flex-direction: column;
