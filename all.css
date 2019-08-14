@@ -35,4 +35,4 @@ nav{
   display: block;
 }
 
-:not()
+:not(#nav)
