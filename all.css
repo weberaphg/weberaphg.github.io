@@ -38,5 +38,5 @@ nav{
 :not(nav) {
   width: 85%;
   float: left;
-  
+  justify-content: left;
 }
