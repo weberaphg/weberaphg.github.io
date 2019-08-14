@@ -22,7 +22,7 @@ nav{
   margin: 0;
 }
 
-.navbar a:hover, .dropdown:hover .dropbtn {
+.dropdown:hover .dropbtn {
   background-color: #dedede;
 }
 
