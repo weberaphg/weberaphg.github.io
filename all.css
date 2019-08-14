@@ -35,7 +35,7 @@ nav{
   display: block;
 }
 
-:not(.dropdown .dropbtn .navelement) {
+:not(header) {
   width: 85%;
   float: right;
   justify-content: right;
