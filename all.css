@@ -35,7 +35,7 @@
   flex-direction: column;
 }
 
-#flextime>* {
+#flextime>*: {
   margin-left: 50%;
 }
 
