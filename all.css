@@ -22,10 +22,6 @@
   transition: 0.3s;
 }
 
-.nav a:hover {
-  color: #f1f1f1;
-}
-
 .nav .closebtn {
   position: absolute;
   top: 0;
