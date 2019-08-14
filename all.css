@@ -36,7 +36,9 @@ flextime {
   margin-left: 100%;
 }
 
-flextime
+flextime * {
+  
+}
 
 h1 {
   font-size: 100px;
