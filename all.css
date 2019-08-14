@@ -36,5 +36,7 @@ nav{
 }
 
 :not(nav) {
-  width: 85%
+  width: 85%;
+  float: left;
+  
 }
