@@ -36,5 +36,5 @@ nav{
 }
 
 :not(nav) {
-  back
+  width: 85%
 }
