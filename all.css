@@ -35,7 +35,10 @@
   flex-direction: column;
 }
 
-#flextime>*
+#flextime>* {
+  
+  margin-left: 50%;
+}
 
 h1 {
   font-size: 100px;
