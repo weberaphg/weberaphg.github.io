@@ -36,7 +36,7 @@ nav {
   display: block;
 }
 
-p {
+p, h3 {
   width: 95%;
   float: right;
   justify-content: right;
