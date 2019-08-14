@@ -33,7 +33,6 @@
 flextime * {
   display: flex;
   flex-direction: column;
-  margin-left: 100%;
 }
 
 h1 {
