@@ -6,13 +6,13 @@ nav {
   float: left;
   position: absolute;
   z-index: 1;
+  background-color: #206eff;
 }
 
 .navelement {
   padding: 50%;
   text-decoration: none;
   width: 100%;
-  background-color: #206eff;
 }
 
 .dropdown .dropbtn {
