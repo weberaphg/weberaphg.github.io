@@ -35,7 +35,7 @@ nav{
   display: block;
 }
 
-:not(nav > div) {
+:not(div > div) {
   width: 85%;
   float: right;
   justify-content: right;
